@@ -1,0 +1,4 @@
+x = int(input("first no.--) ")
+y = int(input("scond no.--) ")
+z = x + y
+print(z)
