@@ -1,0 +1,4 @@
+x = int(input("weight in kgs: ")
+y = x * 2.205
+
+print(y)
