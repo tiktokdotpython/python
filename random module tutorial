@@ -1,0 +1,4 @@
+import random
+colors = ['red', 'white', 'black']
+x = random.randint(colors)
+print(x)
