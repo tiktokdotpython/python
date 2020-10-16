@@ -1,0 +1,6 @@
+x = int(input("type 1: ")
+
+if x == 1:
+  print("one")
+else:
+  print("the number you typed is more thhan one or less")
